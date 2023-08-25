@@ -1,0 +1,3 @@
+# Ignore specific files
+client/node_modules/.cache/default-development/0.pack
+client/node_modules/.cache/default-development/17.pack
