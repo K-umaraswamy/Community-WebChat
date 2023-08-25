@@ -1,2 +1,4 @@
-# Community_Chat-web
-This application allows us to create channel and chat among communities and also has the feature of direct messages between users
+# Community_WebChat
+
+This platform enables users to establish channels for community discussions and engage in both communal chats and direct messaging between individual users.
+
